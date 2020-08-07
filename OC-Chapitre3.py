@@ -17,4 +17,4 @@ else:
 # On met le programme en pause pour éviter qu'il ne se referme (Windows)
 os.system("pause")
 
-# Comment dqsqdsqd
+# Comment
