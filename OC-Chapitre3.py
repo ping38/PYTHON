@@ -18,4 +18,3 @@ else:
 os.system("pause")
 
 # Comment
-# Encore encore
